@@ -1,24 +1,44 @@
-# Hi 👋, I'm Lalit Mehra  
-### 🚀 Passionate about Coding  
+<!-- Banner -->
+<h1 align="center">👋 Hi, I'm Lalit Mohan Mehra</h1>
+<h3 align="center">💻 Software Engineer Developer 1 | 🏆 Competitive Programmer | ❤️ Passionate about Coding</h3>
 
-- 🌱 I’m currently learning **React, Node.js, Express & MongoDB**  
-- 💬 Ask me about **JavaScript, Web Development**  
-- 📫 Reach me at **lalit.mehra703@gmail.com**  
-- ⚡ Fun fact: I can spend hours coding without realizing the time 😅  
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding boy" width="400"/>
+</p>
+
+---
+
+## 👋 Welcome to my GitHub Profile  
+- 🌐 Full Stack Web Developer  
+- ❤️ Passionate about Coding  
+- 🚀 Love solving problems in C++ and JavaScript  
 
 ---
 
 ## 🌐 Connect with me  
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lalit.mehra703@gmail.com)  
+<p align="left">
+<a href="mailto:lokeshmehra7039@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/lalit-mohan-mehra/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
+<a href="https://leetcode.com/u/lucky_mehra703/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white" /></a>
+<a href="https://codolio.com/profile/Lucky70"><img src="https://img.shields.io/badge/-Codolio-2A2D46?style=flat&logo=Codeforces&logoColor=white" /></a>
+<a href="https://www.codechef.com/users/lucky703"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=CodeChef&logoColor=white" /></a>
+<a href="https://www.naukri.com/code360/profile/LuckyMehra"><img src="https://img.shields.io/badge/-Coding%20Ninjas-DD6620?style=flat&logo=codingninjas&logoColor=white" /></a>
+</p>
 
 ---
 
-## 📊 GitHub Stats  
-![Lalit's GitHub stats](https://github-readme-stats.vercel.app/api?username=lalit-mehra703&show_icons=true&theme=radical)  
+## 🚀 Languages and Tools  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=lalit-mehra703&theme=radical)  
+### 🔹 Languages  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
 
----
+### 🔹 Frontend Development  
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
 
-⭐️ From [lalit-mehra703](https://github.com/lalit-mehra703)
+### 🔹 Backend Development  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&
