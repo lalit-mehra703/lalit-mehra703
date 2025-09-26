@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋, I'm Lalit Mehra  
+### 🚀 Passionate about Coding  
 
-<!--
-**lalit-mehra703/lalit-mehra703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **React, Node.js, Express & MongoDB**  
+- 💬 Ask me about **JavaScript, Web Development**  
+- 📫 Reach me at **lalit.mehra703@gmail.com**  
+- ⚡ Fun fact: I can spend hours coding without realizing the time 😅  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect with me  
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lalit.mehra703@gmail.com)  
+
+---
+
+## 📊 GitHub Stats  
+![Lalit's GitHub stats](https://github-readme-stats.vercel.app/api?username=lalit-mehra703&show_icons=true&theme=radical)  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=lalit-mehra703&theme=radical)  
+
+---
+
+⭐️ From [lalit-mehra703](https://github.com/lalit-mehra703)
