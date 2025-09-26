@@ -1,44 +1,157 @@
-<!-- Banner -->
-<h1 align="center">👋 Hi, I'm Lalit Mohan Mehra</h1>
-<h3 align="center">💻 Software Engineer Developer 1 | 🏆 Competitive Programmer | ❤️ Passionate about Coding</h3>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnk0a2JpMWVneW9ud3FibWl0OWY0ajVucW16M2UxbzNpcGt2ZGRiNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MeJmB3Yif2Wf535Plx/giphy.gif" width="100" />
+  <h1>
+    Hi there, I'm YOUR-NAME
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=A+Passionate+Full+Stack+Developer;A+Problem+Solver;An+Open-Source+Enthusiast" alt="Typing SVG" /></a>
+</div>
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding boy" width="400"/>
-</p>
+<br/>
 
----
-
-## 👋 Welcome to my GitHub Profile  
-- 🌐 Full Stack Web Developer  
-- ❤️ Passionate about Coding  
-- 🚀 Love solving problems in C++ and JavaScript  
-
----
-
-## 🌐 Connect with me  
+## 🙋‍♂️ About Me
 <p align="left">
-<a href="mailto:lokeshmehra7039@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/lalit-mohan-mehra/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
-<a href="https://leetcode.com/u/lucky_mehra703/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white" /></a>
-<a href="https://codolio.com/profile/Lucky70"><img src="https://img.shields.io/badge/-Codolio-2A2D46?style=flat&logo=Codeforces&logoColor=white" /></a>
-<a href="https://www.codechef.com/users/lucky703"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=CodeChef&logoColor=white" /></a>
-<a href="https://www.naukri.com/code360/profile/LuckyMehra"><img src="https://img.shields.io/badge/-Coding%20Ninjas-DD6620?style=flat&logo=codingninjas&logoColor=white" /></a>
+  I'm a passionate developer from <strong>YOUR-LOCATION</strong> (e.g., Agra, India). I love building things for the web and solving complex problems.
+  <br/><br/>
+  - 🌱 I’m currently learning about <strong>[Something you are learning]</strong>.
+  <br/>
+  - 👯 I’m looking to collaborate on <strong>[Types of projects you want to collaborate on]</strong>.
+  <br/>
+  - 📫 How to reach me: <strong>YOUR-EMAIL@gmail.com</strong>
+  <br/>
+  - ⚡ Fun fact: <strong>[A fun fact about you]</strong>.
 </p>
 
 ---
 
-## 🚀 Languages and Tools  
+## 🔗 Connect with me
+<p align="left">
+  <a href="YOUR-LINKEDIN-URL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Your LinkedIn Profile" height="30" width="40" /></a>
+  <a href="YOUR-TWITTER-URL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Your Twitter Profile" height="30" width="40" /></a>
+  <a href="YOUR-INSTAGRAM-URL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Your Instagram Profile" height="30" width="40" /></a>
+  <a href="YOUR-LEETCODE-URL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Your LeetCode Profile" height="30" width="40" /></a>
+  <a href="YOUR-PORTFOLIO-URL" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/briefcase.png" alt="Your Portfolio" height="30" width="40" /></a>
+</p>
 
-### 🔹 Languages  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+---
 
-### 🔹 Frontend Development  
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
+## 🛠️ Languages, Tools, and Technologies
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+      </a>
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+      </a>
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+     <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      </a>
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+      </a>
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      </a>
+      <br>React
+    </td>
+     <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="NodeJS" />
+      </a>
+      <br>Node.js
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+      </a>
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      </a>
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+      </a>
+      <br>GitHub
+    </td>
+     <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+      </a>
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      </a>
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+      </a>
+      <br>Figma
+    </td>
+  </tr>
+</table>
+---
 
-### 🔹 Backend Development  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&
+## 📊 My GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&locale=en&theme=tokyonight" alt="YOUR-USERNAME's Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight" alt="YOUR-USERNAME's Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR-USERNAME&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=dracula&column=7" alt="trophies" />
+  </a>
+</p>
