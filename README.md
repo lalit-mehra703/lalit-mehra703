@@ -139,19 +139,3 @@
   </tr>
 </table>
 ---
-
-## 📊 My GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&locale=en&theme=tokyonight" alt="YOUR-USERNAME's Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight" alt="YOUR-USERNAME's Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR-USERNAME&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=dracula&column=7" alt="trophies" />
-  </a>
-</p>
