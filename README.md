@@ -64,7 +64,7 @@
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
 
-  <a href="https://www.codolio.com/your-username">
+  <a href="https://codolio.com/profile/Lucky70">
     <img src="https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
 
