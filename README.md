@@ -5,7 +5,7 @@
 
 <!-- Animated Boy Coding -->
 <p align="center">
-  <img src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif)" alt="Coding Boy" width="400"/>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Boy" width="400"/>
 </p>
 
 ---
