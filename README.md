@@ -52,15 +52,15 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="https://linkedin.com/in/your-link">
+  <a href="https://www.linkedin.com/in/lalit-mohan-mehra/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://leetcode.com/your-username">
+  <a href="https://leetcode.com/u/lucky_mehra703/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 
-  <a href="https://www.codechef.com/users/your-username">
+  <a href="https://www.codechef.com/users/lucky703">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
 
@@ -68,7 +68,7 @@
     <img src="https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
 
-  <a href="https://codeninjas.com/your-username">
+  <a href="https://www.naukri.com/code360/profile/LuckyMehra">
     <img src="https://img.shields.io/badge/CodeNinjas-0088CC?style=for-the-badge&logo=nintendo&logoColor=white" />
   </a>
 
