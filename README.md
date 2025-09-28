@@ -13,8 +13,8 @@
 <!-- Profile Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lalit-mehra703&label=Profile%20Views&color=blueviolet&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/lalit-mehra703?label=Followers&style=flat-square&color=red" />
-  <img src="https://img.shields.io/github/stars/lalit-mehra703?label=Stars&style=flat-square&color=yellow" />
+  <img src="https://img.shields.io/github/followers/lalit-mehra703?label=Followers&style=flat-square&color=red&cache_seconds=3600" />
+  <img src="https://img.shields.io/github/stars/lalit-mehra703?affiliations=OWNER&style=flat-square&color=yellow&cache_seconds=3600" />
 </p>
 
 ---
