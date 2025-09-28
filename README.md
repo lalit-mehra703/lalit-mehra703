@@ -1,59 +1,62 @@
-<h1 align="center">Hey 👋, I'm [Tumhara Naam]</h1>
-<h3 align="center">💻 Student | 🚀 Open Source Enthusiast | 🌱 Lifelong Learner</h3>
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Lalit Mohan Mehra</h1>
+<h3 align="center">A passionate developer who loves to explore and build creative solutions 🚀</h3>
 
----
-
-### 🚀 About Me
-- 🌟 I’m passionate about **Web Development** & **C++ (DSA)**  
-- 🎯 Currently exploring **Open Source & GSoC opportunities**  
-- 📚 Always learning & building side projects  
-- 🤝 Open to collaborate on exciting projects  
-
----
-
-### 🛠️ Tech Stack
-**Languages:**  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-
-**Frameworks & Tools:**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
-
----
-
-### 📊 GitHub Analytics
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=tokyonight" alt="stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&layout=compact&theme=tokyonight" alt="langs" height="180"/>
+  <a href="https://github.com/lalit-mehra703">
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00F700&center=true&vCenter=true&width=600&lines=💻+Coding+Enthusiast;🌱+Currently+Learning+New+Technologies;🎯+Focused+on+Building+Projects;⚡+Always+Curious+to+Learn+More" />
+  </a>
 </p>
 
 ---
 
-### 🔥 Streaks & Contributions
+<!-- Badges -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUserName&theme=highcontrast" alt="streak" height="200"/>
+  <img src="https://komarev.com/ghpvc/?username=lalit-mehra703&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/lalit-mehra703?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/lalit-mehra703?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub Stars" />
 </p>
 
 ---
 
-### 🌍 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:yourmail@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
+## 🚀 About Me
+- 💻 Passionate about coding, problem-solving, and open-source  
+- 🌱 Currently learning **Full-Stack Development**  
+- 🎯 Goal: Contribute to impactful projects & grow as a developer  
+- ⚡ Fun fact: I love exploring new tech & building creative projects  
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,cpp,git,github,mysql,mongodb,vscode,linux" />
 </p>
 
 ---
 
-⭐️ From [Your Name] | 🚀 "Keep Learning, Keep Building"
+## 📊 GitHub Stats & Streak
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lalit-mehra703&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lalit-mehra703&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalit-mehra703&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://github.com/lalit-mehra703"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+⭐️ From [Lalit Mohan Mehra](https://github.com/lalit-mehra703)
