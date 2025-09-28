@@ -3,6 +3,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Lalit+Mohan+Mehra;💻+Passionate+Developer;🚀+Exploring+Tech+World;🔥+Always+Learning+New+Things" />
 </h1>
 
+<!-- Animated Boy Coding -->
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Boy" width="400"/>
+</p>
+
 ---
 
 <!-- Profile Badges -->
@@ -43,32 +48,26 @@
 ## 🌐 Connect With Me
 <p align="center">
 
-  <!-- GitHub -->
   <a href="https://github.com/lalit-mehra703">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <!-- LinkedIn -->
   <a href="https://linkedin.com/in/your-link">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <!-- LeetCode -->
   <a href="https://leetcode.com/your-username">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 
-  <!-- CodeChef -->
   <a href="https://www.codechef.com/users/your-username">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
 
-  <!-- Codolio -->
   <a href="https://www.codolio.com/your-username">
     <img src="https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
 
-  <!-- Code Ninjas -->
   <a href="https://codeninjas.com/your-username">
     <img src="https://img.shields.io/badge/CodeNinjas-0088CC?style=for-the-badge&logo=nintendo&logoColor=white" />
   </a>
