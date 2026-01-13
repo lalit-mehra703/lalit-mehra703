@@ -71,7 +71,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="35">
 <p align="center">
 
   <a href="https://github.com/lalit-mehra703">
