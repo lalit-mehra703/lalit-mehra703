@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" alt="Coding Boy" width="400"/>
 </p>
-
+<h2 align="center">Connect with me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="35"></h2>
 ---
 
 <!-- Profile Badges -->
@@ -23,6 +23,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=FF00FF&center=true&vCenter=true&width=600&lines=💻+Coding+Enthusiast;🌱+Learning+Full-Stack+Development;🎯+Focused+on+Building+Projects;⚡+Always+Curious+to+Learn+More" />
 </p>
+
+- 💬 I'm always eager to chat about **React, Node.js, Express.js, and MongoDB**.
+- 📫 You can reach me at **lokeshmehra7039@gmail.com**.
+- ⚡ Fun fact: I'm an avid **competitive coder**! My keyboard and I have a special bond. 😉
 
 ---
 
@@ -55,13 +59,13 @@
 
 ## 📊 GitHub Stats & Streak
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartik9077&theme=jolly" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lalit-mehra703&theme=jolly" />
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kartik9077&theme=jolly" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kartik9077&theme=jolly" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lalit-mehra703&theme=jolly" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lalit-mehra703&theme=jolly" />
   <img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" width="100%">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kartik9077&theme=jolly" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kartik9077&theme=jolly" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lalit-mehra703&theme=jolly" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lalit-mehra703&theme=jolly" />
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </div>
 
@@ -98,12 +102,44 @@
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lalit-mehra703/lalit-mehra703/output/github-contribution-grid-snake.svg" />
-</p>
+### ✨ What I'm Passionate About
+
+-   Building intuitive and performant user interfaces with **React** [^1][^2].
+-   Crafting robust backend APIs using **Node.js** and **Express.js**.
+-   Designing efficient database schemas with **MongoDB** and **MySQL**.
+-   Solving algorithmic challenges and improving my problem-solving skills through **competitive coding**.
 
 ---
+
+### 🤝 Let's Build Something Amazing!
+
+Feel free to explore my repositories and connect with me. I'm always open to collaborating on exciting projects and learning new things!
+
+
+<!-- GitHub Streak -->
+<div align="center" style="display: flex; align-items: center; justify-content: center; margin-top: 0; padding-top: 0;">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=lalit-mehra703&theme=jolly&hide_border=true" style="z-index: 2; margin-top: 0; padding-top: 0;"/>
+</div>
+
+<!-- Top Languages Summary -->
+<div align="center">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalit-mehra703&show_icons=true&theme=jolly&hide_border=true&card_width=500" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+<!-- GitHub Contributors -->
+<div align="center">
+  
+![](https://github-contributor-stats.vercel.app/api?username=lalit-mehra703&limit=5&theme=jolly&hide_border=true&combine_all_yearly_contributions=true)
+</div>
+
 <img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" width="100%">
+<h1 align="center"> 🏆  GitHub Trophies: </h1>
+
+![](https://github-profile-trophy.vercel.app/?username=lalit-mehra703&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px" />
+
+
 
 ⭐️ From [Lalit Mohan Mehra](https://github.com/lalit-mehra703)
