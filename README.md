@@ -54,14 +54,16 @@
 ---
 
 ## 📊 GitHub Stats & Streak
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lalit-mehra703&show_icons=true&theme=tokyonight" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lalit-mehra703&theme=tokyonight" height="180px" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalit-mehra703&layout=compact&theme=tokyonight" height="150px" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartik9077&theme=jolly" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kartik9077&theme=jolly" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kartik9077&theme=jolly" />
+  <img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" width="100%">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kartik9077&theme=jolly" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kartik9077&theme=jolly" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+</div>
 
 ---
 
