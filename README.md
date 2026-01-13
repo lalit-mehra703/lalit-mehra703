@@ -31,7 +31,7 @@
 <table align="center">
 	<tr>
 	<td><strong>Programming Languages</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=cpp,c&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=cpp&theme=dark"></td>
 </tr>
 
 <tr>
@@ -46,7 +46,7 @@
 
 <tr>
 	<td><strong>Developer Tools</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=git,github,vscode,netlify,postman&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark"></td>
 </tr>
 </table>
 <br>
